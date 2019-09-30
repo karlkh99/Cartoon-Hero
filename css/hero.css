@@ -21,10 +21,6 @@ header img{
 	border-radius: 50%;
 	border: 20px solid #F38C03;
 }
-/*<head>
-	<title>Reggie</title>
-	<link rel="stylesheet" type="text/css" href="css/hero.css">
-</head>*/
 
 body{
 	background-color: #FFC1EA;
@@ -33,7 +29,7 @@ body{
 .content{
 	max-width: 900px;
 	margin: 0 auto;
-	padding: 0 20px;
+	padding: 0px 20px;
 	background-color: white;
 }
 
